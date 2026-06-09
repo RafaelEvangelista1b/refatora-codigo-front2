@@ -1,4 +1,4 @@
-const BASE_URL = 'https://projeto-de-refatoracao-backend.vercel.app/api';
+const BASE_URL = 'https://refatoracao-codigo-back2.vercel.app//api';
 const ADMIN_URL = `${BASE_URL}/admin`;
 
 // ─── HELPER FETCH COM TOKEN ───────────────────────────────────
